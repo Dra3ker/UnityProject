@@ -1,0 +1,11 @@
+Todo:
+
++Add Background
++Add Player
++Add PlayerMovement
++Add Enemy
++Add Projectiles
++Add Colision
+Add Health
+Add Visual Health of enemies
+Add Fight Physics and Walk Physics Layers
